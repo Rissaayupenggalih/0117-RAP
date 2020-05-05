@@ -1,1 +1,3 @@
 Universitas Semarang
+stash@{0}: WIP on master: c6d79eb Branch Baru
+stash@{1}: WIP on master: c6d79eb Branch Baru
